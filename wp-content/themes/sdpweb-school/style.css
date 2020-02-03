@@ -1,0 +1,39 @@
+/*
+Theme Name: SDP School
+Theme URI:
+Template: sdpweb
+Description: This is the school site template designed for the School District of Philadelphia.
+Author: Blinebury Design
+Author URI: http://blineburydesign.com
+Version: 1.2
+Text Domain: sdpweb-school
+*/
+
+.background h1.intro, h1.light {
+	color: #FFF !important;
+}
+.icon {
+	color: #000;
+}
+ul.menu li.menu-item-has-children span {
+	color: #000 !important;
+}
+#wrapper .button.minimal a {
+	background: none !important;
+}
+.sidebar, .box {
+	background-color: #0b315b;
+}
+#footer {
+	margin-top: 30px;
+	color: #000;
+}
+#footer .upper .right ul.menu {
+	float: right;
+	margin-right: 0px;
+	text-align: right;
+}
+/*#footer .upper ul.menu li {
+	padding: 0px;
+	font-weight: bold;
+}*/
